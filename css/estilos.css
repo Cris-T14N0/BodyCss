@@ -1,0 +1,27 @@
+#container{
+
+    display: flex;
+    background-color: bisque;
+    align-content: center;
+    justify-content: center;
+}
+
+#container div{
+
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    width : 100%;
+
+}
+
+#icon1{
+
+    text-align: left;
+    align-items: left;
+}
+
+#data1{
+
+    margin-left: 53%;
+}
